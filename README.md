@@ -9,3 +9,4 @@ Example of applying SARSA to FrozenLake-v0.
 ## Reference
 
 - [FrozenLake-v0](https://gym.openai.com/envs/FrozenLake-v0/)
+- [機械学習スタートアップシリーズ Python で学ぶ強化学習 [改訂第 2 版] 入門から実践まで (KS 情報科学専門書)](https://amzn.to/3qtoqEb)
